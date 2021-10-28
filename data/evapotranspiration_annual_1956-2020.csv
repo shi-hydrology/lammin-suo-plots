@@ -1,8 +1,8 @@
 # START_DATE format is %Y-%m-%d
 # END_DATE format is %Y-%m-%d
-# SITE is evaporation measurement site
-# EVAPORATION is evaporation amount between START_DATE and END_DATE (mm)
-START_DATE,END_DATE,SITE,EVAPORATION
+# SITE is evapotranspiration measurement site
+# ET is evapotranspiration amount between START_DATE and END_DATE (mm)
+START_DATE,END_DATE,SITE,ET
 1956-05-12,1956-09-30,1,346
 1957-06-21,1957-09-30,1,201
 1958-06-01,1958-10-20,1,323
