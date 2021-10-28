@@ -1,0 +1,8 @@
+### v1 -> v2
+meteo_daily_*.csv - previous version contained wrong daily mean, min and max values since 1966. In fact they were the hourly ones. Fixed.
+SNOW_THICKNESS erroneously contained zero values for the non-observed time spans. Removed.
+meteo_hourly_*.csv - fixed a bug with a missing minus sign in the air temperature of some winter months.
+
+peat-temp_*.csv - added QC parameter (zero value indicates doubtful value)
+Observations before 1960, measured with other equipment, are now in a separate file 
+
