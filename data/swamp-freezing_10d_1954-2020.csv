@@ -3,7 +3,7 @@
 # THAW depth of thawed layer which was formed during thawing of a previously frozen layer (cm),,,,,,
 # WATER_CONTENT water layer above the surface of the swamp (cm),,,,,,
 # SNOW_COVER snow depth (cm),,,,,,
-# TERRAIN type of landscape (0 - depression; 1 - hummock; 2 - hollow; 3 - ridge),,,,,,
+# TERRAIN type of landscape (0 - depression, 1 - hummock, 2 - hollow, 3 - ridge),,,
 # SITE is the observation site, valid values 1-5,,,,,
 DATE_TIME,FROZEN,THAW,WATER_CONTENT,SNOW_COVER,TERRAIN,SITE
 1954-11-23,2,,1.4,13,1,SF1
@@ -5222,7 +5222,7 @@ DATE_TIME,FROZEN,THAW,WATER_CONTENT,SNOW_COVER,TERRAIN,SITE
 1989-03-10,7,,6.3,37,2,SF3
 1989-03-10,15,0,6.7,27,1,SF5
 1989-03-10,5,,5,35,0,SF5
-1989-03-10, ,2,2.8,30,1,SF4
+1989-03-10,,2,2.8,30,1,SF4
 1989-03-10,1,3,0.7,35,0,SF4
 1989-03-21,5,,2.6,30,1,SF1
 1989-03-21,0,,,34,0,SF1
